@@ -1,0 +1,111 @@
+body{
+    background-color:#809fff;
+
+}
+
+#title{
+    position:absolute; top:25px; left: 460px;
+    font-size: x-large;
+    border-style: solid;
+    background-color: white;
+    border-width: 15px;
+
+}
+
+#subtitle1{
+    position:absolute; top:175px; left: 350px;
+    font-size: medium;
+
+}
+
+#subtitle2{
+    position:absolute; top:175px; left: 700px;
+    font-size:medium;
+    
+   
+   
+}
+
+#subtitle3{
+    position:absolute; top:175px; left: 1035px;
+    font-size: medium;
+
+}
+
+#cube{
+    position:absolute; top:250px; left: 975px;
+    padding:0px;
+   
+
+}
+
+#subtitle4{
+    position:absolute; top:265px; left: 1170px;
+    font-size: medium;
+
+}
+
+
+#cuke1{
+    position:absolute; top:250px; left: 0px;
+    padding:0px;
+   
+
+}
+
+
+
+#cuke3{
+    position:absolute; top:250px; left: 230px;
+
+    padding:0px;
+ 
+
+}
+
+#cuke2{
+    position:absolute; top:440px; left: 0px;
+
+    padding:00px;
+  
+
+}
+
+
+#cuke4{
+    position:absolute; top:250px; left: 488px;
+
+    padding:0px;
+ 
+
+}
+
+#cuke5{
+    position:absolute; top:440px; left: 290px;
+
+    padding:0px;
+ 
+
+}
+
+#cuke6{
+    position:absolute; top:440px; left: 550px;
+
+    padding:0px;
+ 
+
+}
+
+#cuke7{
+    position:absolute; top:440px; left: 700px;
+
+    padding:0px;
+ 
+
+}
+
+#list{
+    position:absolute; top:325px; left: 1060px;
+    font-size: x-large;
+
+}
