@@ -4,22 +4,25 @@ body{
 }
 
 #title{
-    position:absolute; top:25px; left: 460px;
+    position:absolute; top:0px; left: 0px;
     font-size: x-large;
+    background-color: lightslategray;
+    width:10000px;
     border-style: solid;
-    background-color: white;
-    border-width: 5px;
+    border-width: 2px;
+    border-color: black;
+   
 
 }
 
 #subtitle1{
-    position:absolute; top:175px; left: 350px;
+    position:absolute; top:137px; left: 350px;
     font-size: medium;
 
 }
 
 #subtitle2{
-    position:absolute; top:175px; left: 700px;
+    position:absolute; top:137px; left: 700px;
     font-size:medium;
     
    
@@ -27,21 +30,49 @@ body{
 }
 
 #subtitle3{
-    position:absolute; top:175px; left: 1035px;
+    position:absolute; top:137px; left: 1035px;
     font-size: medium;
 
 }
 
-#cube{
-    position:absolute; top:250px; left: 975px;
+#red{
+    position:absolute; top:99px; left: 630px;
+    padding:0px;
+
+}
+
+#red2{
+    position:absolute; top:99px; left: 965px;
+    padding:0px;
+
+}
+
+#red3{
+    position:absolute; top:99px; left: 280px;
+    padding:0px;
+
+}
+
+
+/*
+#scroll{
+    position:absolute; top:182px; left: 975px;
     padding:0px;
    
 
 }
+*/
 
 #subtitle4{
-    position:absolute; top:265px; left: 1170px;
+    position:absolute; top:250px; left: 970px;
     font-size: medium;
+    background-color:bisque;
+    width:10000px;
+    border-style: solid;
+    border-width:2px;
+    border-color:black;
+
+
 
 }
 
@@ -105,7 +136,12 @@ body{
 }
 
 #list{
-    position:absolute; top:325px; left: 1060px;
+    position:absolute; top:325px; left: 970px;
     font-size: x-large;
+    background-color: bisque;
+    width:10000px;
+    border-style: solid;
+    border-width:2px;
+    border-color:black;
 
 }
